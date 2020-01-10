@@ -15115,8 +15115,8 @@ iframe#video-tut {
     overflow-y: auto;
 }
 .smart-link-list-section ul li {
-    border-bottom: 2px solid #e7eaec;
-    padding: 0 3px;
+    border-bottom: px solid #e7eaec;
+    padding: 0 0px;
 }
 .smart-link-list-section ul li:last-child {
     border: none;
@@ -15165,17 +15165,17 @@ iframe#video-tut {
     white-space: nowrap;
 }
 .theme-preview-section .smart-link-part {
-    padding: 20px 0;
+    padding: 0px 0;
 }
 .theme-preview-section .smart-link-list-section {
-    padding-top: 10px;
+    padding-top: 0px;
 }
 .theme-preview-section .smart-link-list-section ul {
     margin-top: 15px;
     overflow: inherit;
 }
 .theme-preview-section .smart-link-list-section ul li {
-    border-bottom-width: 1px;
+    border-bottom-width: 0px;
     padding: 0;
 }
 .theme-preview-section .smart-link-list-section ul li:last-child .smart-link-part {
