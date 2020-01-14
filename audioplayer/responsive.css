@@ -251,7 +251,7 @@
     .grid-item:nth-child(5n+1) {
         height: 350px;
     }
-    .post-title {
+    .post-Tribal {
         font-size: 20px;
     }
     .blog-detail .inner-wrap2 {
@@ -495,7 +495,7 @@
     /****************************** ****************************** 
             Pricing V2.0 - HYPE-855 - Sprint-43
   ****************************** *****************************/
-    .faq-inner-section .main-title-part {
+    .faq-inner-section .main-Tribal-part {
         margin-bottom: 60px;
     }
 }
@@ -582,10 +582,10 @@
     .cta-section {
         padding: 60px 0;
     }
-    .main-title-part {
+    .main-Tribal-part {
         margin-bottom: 50px;
     }
-    .main-title-part h1 {
+    .main-Tribal-part h1 {
         font-size: 28px;
     }
     .cta-box-part h3 {
@@ -637,7 +637,7 @@
     /****************************** ****************************** 
                Dashboard Page CSS
   ****************************** *****************************/
-    .page-title-part h1 {
+    .page-Tribal-part h1 {
         font-size: 22px;
     }
     .main-container-section {
@@ -646,8 +646,8 @@
     .mpad-sm {
         padding: 40px 0;
     }
-    .title-button-part .btn-group,
-    .title-button-part a {
+    .Tribal-button-part .btn-group,
+    .Tribal-button-part a {
         margin: 0 4px;
     }
     .table > thead > tr > th {
@@ -684,10 +684,10 @@
     .post-inside .post-header {
         padding: 15px;
     }
-    .post-title {
+    .post-Tribal {
         font-size: 22px;
     }
-    .post-title br {
+    .post-Tribal br {
         display: none;
     }
     .post-inside .read-more {
@@ -1134,7 +1134,7 @@
     /****************************** ****************************** 
     Chart notification email enhancements Style CSS Sprint-15
   ****************************** *****************************/
-    .new-trans-main-title {
+    .new-trans-main-Tribal {
         text-align: center;
     }
     .for-Dimage-overflow {
@@ -1169,7 +1169,7 @@
     /****************************** ****************************** 
          Onboarding Plan Selection Page CSS Sprint-18
   ****************************** *****************************/
-    .single-title-part h2 {
+    .single-Tribal-part h2 {
         font-size: 22px;
     }
     /****************************** ****************************** 
@@ -1187,7 +1187,7 @@
     /****************************** ****************************** 
              Fan Promotion Sprint-19
   ****************************** *****************************/
-    .for-static-white-title {
+    .for-static-white-Tribal {
         position: initial;
     }
     .fan-promotion-container {
@@ -1593,13 +1593,13 @@
     /****************************** ****************************** 
             Pricing V2.0 - HYPE-855 - Sprint-43
   ****************************** *****************************/
-    .faq-inner-section .main-title-part {
+    .faq-inner-section .main-Tribal-part {
         margin-bottom: 50px;
     }
     /****************************** ****************************** 
             Welcome Video - HYPE-914 - Sprint-46
   ****************************** *****************************/
-    .welcome-video-page .single-title-part {
+    .welcome-video-page .single-Tribal-part {
         margin-bottom: 50px;
     }
     .welcome-info-tip {
@@ -1806,10 +1806,10 @@
     .cta-section {
         padding: 50px 0;
     }
-    .main-title-part {
+    .main-Tribal-part {
         margin-bottom: 40px;
     }
-    .main-title-part h1 {
+    .main-Tribal-part h1 {
         font-size: 24px;
     }
     .cta-icon {
@@ -1888,7 +1888,7 @@
     /****************************** ****************************** 
                Sign Up Pop Up Style CSS
   ****************************** *****************************/
-    .modal-title {
+    .modal-Tribal {
         font-size: 18px;
     }
     .modal-inner {
@@ -1908,15 +1908,15 @@
         padding: 25% 0;
         width: 100%;
     }
-    .page-title-part h1 {
+    .page-Tribal-part h1 {
         font-size: 20px;
     }
-    .title-button-part .hy-btn-line {
+    .Tribal-button-part .hy-btn-line {
         margin-bottom: 8px;
         padding: 8px 15px;
     }
-    .title-button-part .btn-group,
-    .title-button-part a {
+    .Tribal-button-part .btn-group,
+    .Tribal-button-part a {
         margin: 0 8px;
     }
     .main-container-section {
@@ -1925,7 +1925,7 @@
     .mpad-sm {
         padding: 40px 0;
     }
-    .sub-heading-title h3 {
+    .sub-heading-Tribal h3 {
         text-align: center;
     }
     .activity-box {
@@ -1935,7 +1935,7 @@
         font-size: 40px;
     }
     /*== Steps Popover Part CSS ==*/
-    .popover-title {
+    .popover-Tribal {
         font-size: 18px;
         padding: 10px 15px;
     }
@@ -1982,10 +1982,10 @@
     .post-inside .post-header {
         padding: 15px;
     }
-    .post-title {
+    .post-Tribal {
         font-size: 20px;
     }
-    .post-title br {
+    .post-Tribal br {
         display: none;
     }
     .post-inside .read-more {
@@ -2105,8 +2105,8 @@
         padding: 0 15px;
     }
     /*== Support Artist Popover Part CSS ==*/
-    .fangate .modal-title,
-    .spotify-page .modal-title {
+    .fangate .modal-Tribal,
+    .spotify-page .modal-Tribal {
         font-size: 14px;
     }
     .support-code {
@@ -2831,10 +2831,10 @@
     .scyt-faq-section {
         padding: 60px 0;
     }
-    .sc-yt-faq-title {
+    .sc-yt-faq-Tribal {
         margin-bottom: 50px;
     }
-    .sc-yt-faq-title h1 {
+    .sc-yt-faq-Tribal h1 {
         font-size: 22px;
     }
     .scyt-faq-content ul li h4 {
@@ -2882,10 +2882,10 @@
     /****************************** ****************************** 
     Chart notification email enhancements Style CSS Sprint-15
   ****************************** *****************************/
-    .new-trans-main-title {
+    .new-trans-main-Tribal {
         text-align: center;
     }
-    .new-trans-main-title h2 {
+    .new-trans-main-Tribal h2 {
         font-size: 20px;
     }
     .for-Dimage-overflow {
@@ -2905,7 +2905,7 @@
         font-size: 20px;
         line-height: 20px;
     }
-    #show-guide-popup .modal-title {
+    #show-guide-popup .modal-Tribal {
         font-size: 18px;
     }
     /****************************** ****************************** 
@@ -2989,10 +2989,10 @@
     /****************************** ****************************** 
          Onboarding Plan Selection Page CSS Sprint-18
   ****************************** *****************************/
-    .single-title-part h2 {
+    .single-Tribal-part h2 {
         font-size: 20px;
     }
-    .single-title-part p {
+    .single-Tribal-part p {
         font-size: 13px;
     }
     /****************************** ****************************** 
@@ -3048,7 +3048,7 @@
     /****************************** ****************************** 
              Fan Promotion Sprint-19
   ****************************** *****************************/
-    .for-static-white-title {
+    .for-static-white-Tribal {
         position: initial;
     }
     .fan-promotion-container {
@@ -3155,10 +3155,10 @@
     /****************************** ****************************** 
              Blog Promotion Page Sprint-19
   ****************************** *****************************/
-    .blog-promotion-page .panel-title {
+    .blog-promotion-page .panel-Tribal {
         font-size: 18px;
     }
-    .blog-promotion-page .panel-title .panel-headline {
+    .blog-promotion-page .panel-Tribal .panel-headline {
         padding-top: 6px;
     }
     .blog-promotion-page .panel-body {
@@ -3882,16 +3882,16 @@
     .new-pricing-main-content ul li br {
         display: none;
     }
-    .faq-inner-section .main-title-part {
+    .faq-inner-section .main-Tribal-part {
         margin-bottom: 45px;
     }
-    .faq-inner-section .main-title-part h1 {
+    .faq-inner-section .main-Tribal-part h1 {
         font-size: 22px;
     }
     /****************************** ****************************** 
             Welcome Video - HYPE-914 - Sprint-46
   ****************************** *****************************/
-    .welcome-video-page .single-title-part {
+    .welcome-video-page .single-Tribal-part {
         margin-bottom: 40px;
     }
     .welcome-video-content {
@@ -4167,10 +4167,10 @@
     .cta-section {
         padding: 40px 0;
     }
-    .main-title-part {
+    .main-Tribal-part {
         margin-bottom: 30px;
     }
-    .main-title-part h1 {
+    .main-Tribal-part h1 {
         font-size: 20px;
     }
     .cta-icon {
@@ -4256,7 +4256,7 @@
     .modal-header {
         padding: 15px 10px;
     }
-    .modal-title {
+    .modal-Tribal {
         font-size: 16px;
     }
     .modal-inner {
@@ -4279,17 +4279,17 @@
         padding: 40% 0;
         width: 100%;
     }
-    .page-title-part h1 {
+    .page-Tribal-part h1 {
         font-size: 18px;
     }
-    .title-button-part .btn-group {
+    .Tribal-button-part .btn-group {
         margin: 0 0 15px;
         width: 100%;
     }
-    .title-button-part .btn-group:last-child {
+    .Tribal-button-part .btn-group:last-child {
         margin-bottom: 0;
     }
-    .title-button-part .btn-group .hy-btn-line {
+    .Tribal-button-part .btn-group .hy-btn-line {
         width: 100%;
     }
     .main-container-section {
@@ -4298,7 +4298,7 @@
     .mpad-sm {
         padding: 40px 0;
     }
-    .sub-heading-title h3 {
+    .sub-heading-Tribal h3 {
         text-align: center;
     }
     .activity-box {
@@ -4311,7 +4311,7 @@
         font-size: 12px;
     }
     /*== Steps Popover Part CSS ==*/
-    .popover-title {
+    .popover-Tribal {
         font-size: 16px;
         padding: 10px 15px;
     }
@@ -4362,10 +4362,10 @@
     .post-inside .post-header {
         padding: 15px;
     }
-    .post-title {
+    .post-Tribal {
         font-size: 18px;
     }
-    .post-title br {
+    .post-Tribal br {
         display: none;
     }
     .post-inside .read-more {
@@ -4464,7 +4464,7 @@
         padding: 15px;
         width: 100%;
     }
-    .fangate-download-part .main-title-part h1 {
+    .fangate-download-part .main-Tribal-part h1 {
         font-size: 22px;
     }
     .download-step {
@@ -4493,8 +4493,8 @@
         padding: 0 15px;
     }
     /*== Support Artist Popover Part CSS ==*/
-    .fangate .modal-title,
-    .spotify-page .modal-title {
+    .fangate .modal-Tribal,
+    .spotify-page .modal-Tribal {
         font-size: 12px;
     }
     .support-code {
@@ -5275,10 +5275,10 @@
     .scyt-faq-section {
         padding: 50px 0;
     }
-    .sc-yt-faq-title {
+    .sc-yt-faq-Tribal {
         margin-bottom: 40px;
     }
-    .sc-yt-faq-title h1 {
+    .sc-yt-faq-Tribal h1 {
         font-size: 20px;
     }
     .scyt-faq-content ul li h4 {
@@ -5343,14 +5343,14 @@
     /****************************** ****************************** 
     Chart notification email enhancements Style CSS Sprint-15
   ****************************** *****************************/
-    .new-trans-main-title {
+    .new-trans-main-Tribal {
         text-align: center;
     }
-    .new-trans-main-title h2 {
+    .new-trans-main-Tribal h2 {
         display: block;
         font-size: 18px;
     }
-    .new-trans-main-title h2 span {
+    .new-trans-main-Tribal h2 span {
         display: block;
     }
     .for-side-play-btn {
@@ -5387,7 +5387,7 @@
     .acc-new-select label {
         font-size: 14px;
     }
-    #show-guide-popup .modal-title {
+    #show-guide-popup .modal-Tribal {
         font-size: 16px;
     }
     /****************************** ****************************** 
@@ -5489,10 +5489,10 @@
     /****************************** ****************************** 
          Onboarding Plan Selection Page CSS Sprint-18
   ****************************** *****************************/
-    .single-title-part h2 {
+    .single-Tribal-part h2 {
         font-size: 18px;
     }
-    .single-title-part p {
+    .single-Tribal-part p {
         font-size: 12px;
     }
     /****************************** ****************************** 
@@ -5553,7 +5553,7 @@
     /****************************** ****************************** 
              Fan Promotion Sprint-19
   ****************************** *****************************/
-    .for-static-white-title {
+    .for-static-white-Tribal {
         position: initial;
     }
     .fan-promotion-container {
@@ -5665,10 +5665,10 @@
     /****************************** ****************************** 
              Blog Promotion Page Sprint-19
   ****************************** *****************************/
-    .blog-promotion-page .panel-title {
+    .blog-promotion-page .panel-Tribal {
         font-size: 16px;
     }
-    .blog-promotion-page .panel-title .panel-headline {
+    .blog-promotion-page .panel-Tribal .panel-headline {
         padding-top: 8px;
     }
     .blog-promotion-page .panel-body {
@@ -6766,10 +6766,10 @@
     .new-pricing-main-content h3 {
         font-size: 17px;
     }
-    .faq-inner-section .main-title-part {
+    .faq-inner-section .main-Tribal-part {
         margin-bottom: 40px;
     }
-    .faq-inner-section .main-title-part h1 {
+    .faq-inner-section .main-Tribal-part h1 {
         font-size: 20px;
     }
     /****************************** ****************************** 
@@ -6783,7 +6783,7 @@
     /****************************** ****************************** 
             Welcome Video - HYPE-914 - Sprint-46
   ****************************** *****************************/
-    .welcome-video-page .single-title-part {
+    .welcome-video-page .single-Tribal-part {
         margin-bottom: 35px;
     }
     .welcome-video-content {
@@ -7306,7 +7306,7 @@
     .for-scroll-header {
         margin-top: 0;
     }
-    .white-page-title-part h1 {
+    .white-page-Tribal-part h1 {
         font-size: 22px;
     }
     #header.with-scroll-header .navbar .navbar-nav > li > .dropdown-menu {
@@ -7368,7 +7368,7 @@
     .for-scroll-header {
         margin-top: 0;
     }
-    .white-page-title-part h1 {
+    .white-page-Tribal-part h1 {
         font-size: 20px;
     }
     #header.with-scroll-header .navbar .navbar-nav > li > .dropdown-menu {
@@ -7425,7 +7425,7 @@
     .for-scroll-header {
         margin-top: 0;
     }
-    .white-page-title-part h1 {
+    .white-page-Tribal-part h1 {
         font-size: 18px;
     }
     #header.with-scroll-header .navbar .navbar-nav > li > .dropdown-menu {
@@ -7490,14 +7490,14 @@
     }
 }
 @media (max-width:600px) {
-    .music-track-main-title.for-two-btns h2 {
+    .music-track-main-Tribal.for-two-btns h2 {
         display: block;
         float: none;
         margin-bottom: 10px;
     }
-    .music-track-main-title.for-two-btns .button.view-chart-btn,
-    .music-track-main-title.for-two-btns .hy-btn-green-grad.view-chart-btn,
-    .music-track-main-title.for-two-btns .hy-btn-white.view-chart-btn-lg {
+    .music-track-main-Tribal.for-two-btns .button.view-chart-btn,
+    .music-track-main-Tribal.for-two-btns .hy-btn-green-grad.view-chart-btn,
+    .music-track-main-Tribal.for-two-btns .hy-btn-white.view-chart-btn-lg {
         float: left;
         font-size: 10px;
         margin-left: 0;

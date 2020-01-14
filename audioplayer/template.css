@@ -336,13 +336,13 @@ a[href^="fax"] {
     color: #9aa7b7;
 }
 /*== Table Link Button ==*/
-.hy-link-title {
+.hy-link-Tribal {
     color: #f43010;
     text-transform: uppercase;
     font-family: "NexaBlack";
     text-decoration: underline;
 }
-.hy-link-title:hover {
+.hy-link-Tribal:hover {
     color: #414e58;
 }
 
@@ -860,25 +860,25 @@ a[href^="fax"] {
     max-width: 850px;
     margin: 0 auto;
 }
-.main-title-part {
+.main-Tribal-part {
     display: block;
     margin-bottom: 60px;
     text-align: center;
 }
-.main-title-part h1 {
+.main-Tribal-part h1 {
     color: #414e58;
     font-family: "NexaBlack";
     font-size: 32px;
     margin: 0;
     text-transform: uppercase;
 }
-.main-title-part p {
+.main-Tribal-part p {
     color: #414e58;
     font-size: 16px;
     margin-bottom: 0;
     padding-top: 5px;
 }
-.main-title-part.color-white h1 {
+.main-Tribal-part.color-white h1 {
     color: #ffffff;
 }
 .cta-box-part {
@@ -1164,14 +1164,14 @@ footer {
 .navbar-nav > li.useracc-drop .dropdown-toggle .caret {
     margin-left: 10px;
 }
-.page-title-part {
+.page-Tribal-part {
     background: #25292d none repeat scroll 0 0;
     border-top: 1px solid #454b52;
     display: block;
     min-height: 70px;
     padding: 21px 0;
 }
-.page-title-part h1 {
+.page-Tribal-part h1 {
     color: #ffffff;
     font-family: "NexaBlack";
     font-size: 24px;
@@ -1181,37 +1181,37 @@ footer {
     text-align: center;
     text-transform: uppercase;
 }
-.page-title-part h1 span {
+.page-Tribal-part h1 span {
     color: #f2270d;
 }
-.title-button-part {
+.Tribal-button-part {
     display: block;
     background: #31363c;
     padding: 12px 0;
 }
-.title-button-part .hy-btn-line {
+.Tribal-button-part .hy-btn-line {
     font-family: "NexaBlack";
     font-size: 12px;
     line-height: 20px;
     padding: 8px 20px;
 }
-.title-button-part .hy-btn-line span {
+.Tribal-button-part .hy-btn-line span {
     font-family: "NexaLight";
     font-size: 13px;
 }
-.title-button-part .btn-group,
-.title-button-part a {
+.Tribal-button-part .btn-group,
+.Tribal-button-part a {
     margin: 0 12px;
 }
-.title-button-part .dropdown-menu {
+.Tribal-button-part .dropdown-menu {
     margin-top: 8px;
     left: auto;
     right: 13px;
 }
-.title-button-part .dropdown-menu > li > a {
+.Tribal-button-part .dropdown-menu > li > a {
     margin: 0;
 }
-.title-button-part .btn-group .caret {
+.Tribal-button-part .btn-group .caret {
     margin-top: -3px;
     color: #f43010;
 }
@@ -1222,11 +1222,11 @@ footer {
 .mpad-sm {
     padding: 40px 0;
 }
-.sub-heading-title {
+.sub-heading-Tribal {
     display: block;
     margin-bottom: 25px;
 }
-.sub-heading-title h3 {
+.sub-heading-Tribal h3 {
     font-size: 20px;
     color: #495159;
     font-family: 'poppinsregular';
@@ -2163,7 +2163,7 @@ input.cmn-toggle-round:checked + label:after {
 .post-header {
     margin-bottom: 30px;
 }
-.post-title {
+.post-Tribal {
     color: #292d31;
     font-family: "NexaBlack";
     font-size: 24px;
@@ -2171,7 +2171,7 @@ input.cmn-toggle-round:checked + label:after {
     margin-top: 2px;
     text-transform: uppercase;
 }
-.post-title a {
+.post-Tribal a {
     background: rgba(34, 40, 46, 0.85);
     border-radius: 3px;
     color: #fff;
@@ -2438,11 +2438,11 @@ input.cmn-toggle-round:checked + label:after {
     max-width: 780px;
     margin: 0 auto;
 }
-.faq-inner-section .main-title-part {
+.faq-inner-section .main-Tribal-part {
     position: relative;
     margin-bottom: 70px;
 }
-.faq-inner-section .main-title-part::after {
+.faq-inner-section .main-Tribal-part::after {
     content: "";
     position: absolute;
     height: 1px;
@@ -2451,7 +2451,7 @@ input.cmn-toggle-round:checked + label:after {
     left: 0;
     top: 50%;
 }
-.faq-inner-section .main-title-part h1 {
+.faq-inner-section .main-Tribal-part h1 {
     color: #495159;
     font-size: 24px;
     position: relative;
@@ -2799,10 +2799,10 @@ input.cmn-toggle-round:checked + label:after {
     width: 738px;
     margin: 0 auto;
 }
-.fangate-download-part .main-title-part {
+.fangate-download-part .main-Tribal-part {
     margin-bottom: 30px;
 }
-.fangate-download-part .main-title-part h1 {
+.fangate-download-part .main-Tribal-part h1 {
     font-size: 24px;
 }
 .download-step {
@@ -2834,8 +2834,8 @@ input.cmn-toggle-round:checked + label:after {
     padding-top: 20px;
     text-align: center;
 }
-.fangate .modal-title,
-.spotify-page .modal-title {
+.fangate .modal-Tribal,
+.spotify-page .modal-Tribal {
     font-size: 16px;
 }
 /*== Fan Gate Footer Part CSS ==*/
@@ -2900,10 +2900,10 @@ input.cmn-toggle-round:checked + label:after {
     margin: 12px 0;
     padding: 30px 20px;
 }
-.terms-main-container .main-title-part {
+.terms-main-container .main-Tribal-part {
     margin-bottom: 30px;
 }
-.terms-main-container .main-title-part h1 {
+.terms-main-container .main-Tribal-part h1 {
     font-size: 24px;
 }
 .static-part {
@@ -3389,7 +3389,7 @@ input.cmn-toggle-round:checked + label:after {
     right: 10px;
     z-index: 5000;
 }
-.title001 {
+.Tribal001 {
     color: #25292d;
 }
 #log-in-hear-this .form-group .button,
@@ -3541,7 +3541,7 @@ input.cmn-toggle-round:checked + label:after {
     left: 32px !important;
 }
 /*================= Account Settings ======================*/
-.setting-content .title-tag {
+.setting-content .Tribal-tag {
     font-size: 16px;
     color: #495159;
     margin-bottom: 10px;
@@ -3740,7 +3740,7 @@ input.cmn-toggle-round:checked + label:after {
     line-height: 36px;
 }
 /*================= email not verified ======================*/
-.sub-title {
+.sub-Tribal {
     font-size: 16px;
 }
 #resend_form-popup {
@@ -4807,7 +4807,7 @@ input.cmn-toggle-round:checked + label:after {
 /****************************** ****************************** 
  					Sprint 6 Updates CSS
 ****************************** *****************************/
-.white-page-title-part {
+.white-page-Tribal-part {
     background: #ffffff none repeat scroll 0 0;
     border-bottom: 1px solid #dce1e6;
     box-shadow: 0 2px 10px 2px rgba(0, 0, 0, 0.15);
@@ -4816,7 +4816,7 @@ input.cmn-toggle-round:checked + label:after {
     padding: 21px 0;
     position: relative;
 }
-.white-page-title-part h1 {
+.white-page-Tribal-part h1 {
     color: #414e58;
     font-family: "NexaBlack";
     font-size: 24px;
@@ -4826,7 +4826,7 @@ input.cmn-toggle-round:checked + label:after {
     text-align: center;
     text-transform: uppercase;
 }
-.white-page-title-part h1 span.thinfont {
+.white-page-Tribal-part h1 span.thinfont {
     font-family: "NexaThin";
 }
 .for-scroll-header {
@@ -4855,23 +4855,23 @@ input.cmn-toggle-round:checked + label:after {
 /****************************** ****************************** 
  					PLAY ALL BUTTON
 ****************************** *****************************/
-.music-track-main-title .hy-btn-green-grad {
+.music-track-main-Tribal .hy-btn-green-grad {
     float: right;
     font-size: 12px;
     min-width: 120px;
     padding: 7px 28px;
 }
-.music-track-main-title .button-primary.view-chart-btn,
-.music-track-main-title .hy-btn-green-grad.view-chart-btn {
+.music-track-main-Tribal .button-primary.view-chart-btn,
+.music-track-main-Tribal .hy-btn-green-grad.view-chart-btn {
     float: left;
     margin-left: 30px;
 }
-.music-track-main-title .button-primary.view-chart-btn + .view-chart-btn,
-.music-track-main-title .hy-btn-green-grad.view-chart-btn + .view-chart-btn {
+.music-track-main-Tribal .button-primary.view-chart-btn + .view-chart-btn,
+.music-track-main-Tribal .hy-btn-green-grad.view-chart-btn + .view-chart-btn {
     margin-left: 20px;
 }
-.music-track-main-title .button-primary.view-chart-btn i,
-.music-track-main-title .hy-btn-green-grad.view-chart-btn i {
+.music-track-main-Tribal .button-primary.view-chart-btn i,
+.music-track-main-Tribal .hy-btn-green-grad.view-chart-btn i {
     font-size: 11px;
     margin-left: 5px;
     margin-right: 0;
@@ -6046,7 +6046,7 @@ a.sphere-link:hover {
     display: block;
     margin-bottom: 50px;
 }
-.account-box-part .sub-heading-title {
+.account-box-part .sub-heading-Tribal {
     margin-bottom: 15px;
 }
 .linked-social-profile-panel,
@@ -6391,10 +6391,10 @@ a.sphere-link:hover {
     display: block;
     width: 100%;
 }
-.track-song-title {
+.track-song-Tribal {
     padding-left: 40px;
 }
-.track-song-title h3 {
+.track-song-Tribal h3 {
     color: #ffffff;
     display: block;
     font-family: "NexaBlack";
@@ -6406,7 +6406,7 @@ a.sphere-link:hover {
     text-transform: uppercase;
     white-space: nowrap;
 }
-.track-song-title p {
+.track-song-Tribal p {
     color: #ffffff;
     display: block;
     font-family: "Nexa";
@@ -6635,15 +6635,15 @@ a.sphere-link:hover {
     height: 40px;
     width: 40px;
 }
-.player.loudlink .track-song-title {
+.player.loudlink .track-song-Tribal {
     padding-left: 50px;
     padding-top: 5px;
 }
-.player.loudlink .track-song-title h3 {
+.player.loudlink .track-song-Tribal h3 {
     line-height: 15px;
 }
-.player.loudlink .track-song-title h3,
-.player.loudlink .track-song-title p {
+.player.loudlink .track-song-Tribal h3,
+.player.loudlink .track-song-Tribal p {
     padding-right: 185px;
 }
 .loudlink .track-download-btn {
@@ -6820,7 +6820,7 @@ a.sphere-link:hover {
 #streams_instruction .modal-inner {
     padding: 0 0 15px;
 }
-#show-guide-popup .modal-title {
+#show-guide-popup .modal-Tribal {
     font-size: 20px;
 }
 .video-notification-part {
@@ -7554,12 +7554,12 @@ a.sphere-link:hover {
     margin: 0 auto;
     max-width: 600px;
 }
-.sc-yt-faq-title {
+.sc-yt-faq-Tribal {
     display: block;
     margin-bottom: 60px;
     text-align: center;
 }
-.sc-yt-faq-title h1 {
+.sc-yt-faq-Tribal h1 {
     color: #22282e;
     font-family: "NexaBlack";
     font-size: 24px;
@@ -8128,16 +8128,16 @@ a.sphere-link:hover {
 /****************************** ****************************** 
   Chart notification email enhancements Style CSS Sprint-15
 ****************************** *****************************/
-.new-trans-title-part {
+.new-trans-Tribal-part {
     display: block;
     padding: 40px 0 22px;
 }
-.new-trans-main-title {
+.new-trans-main-Tribal {
     display: block;
     padding: 0 5px;
     position: relative;
 }
-.new-trans-main-title h2 {
+.new-trans-main-Tribal h2 {
     color: #495159;
     display: inline-block;
     font-family: "NexaBlack";
@@ -8146,7 +8146,7 @@ a.sphere-link:hover {
     text-transform: uppercase;
     vertical-align: middle;
 }
-.new-trans-main-title h2 span {
+.new-trans-main-Tribal h2 span {
     font-family: "NexaLight";
 }
 .for-side-play-btn {
@@ -8804,7 +8804,7 @@ a.sphere-link:hover {
     margin-left: 1px;
     margin-top: 13px;
 }
-.soundHeader__title {
+.soundHeader__Tribal {
     margin-top: 15px;
 }
 .text-truncate {
@@ -8813,12 +8813,12 @@ a.sphere-link:hover {
     white-space: nowrap;
     word-break: normal;
 }
-.HYWidget_title {
+.HYWidget_Tribal {
     font-size: 14px;
     line-height: 14px;
 }
-.HYWidget_title__h1,
-.HYWidget_title__h2 {
+.HYWidget_Tribal__h1,
+.HYWidget_Tribal__h2 {
     color: #495159;
     display: inline-block;
     font-family: "Nexa";
@@ -8827,15 +8827,15 @@ a.sphere-link:hover {
     vertical-align: bottom;
     font-weight: normal;
 }
-.HYWidget_title__h1:hover,
-.HYWidget_title__h2:hover {
+.HYWidget_Tribal__h1:hover,
+.HYWidget_Tribal__h2:hover {
     text-decoration: none;
     color: #000000;
 }
-.HYWidget_title__h1 {
+.HYWidget_Tribal__h1 {
     font-family: "NexaBlack";
 }
-.HYWidget_title__h2Text {
+.HYWidget_Tribal__h2Text {
     max-width: 80%;
 }
 .widget-media-right {
@@ -8948,7 +8948,7 @@ a.sphere-link:hover {
     position: relative;
     z-index: 100;
 }
-.soundHeader.visual .soundHeader__title {
+.soundHeader.visual .soundHeader__Tribal {
     margin-top: 10px;
 }
 .HYWidget-text-visual {
@@ -8960,12 +8960,12 @@ a.sphere-link:hover {
 .HYWidget-text-visual:hover {
     color: rgba(255, 255, 255, 1);
 }
-.HYWidget_title__h1.HYWidget-text-visual {
+.HYWidget_Tribal__h1.HYWidget-text-visual {
     margin-bottom: 2px;
     padding-bottom: 2px;
     padding-top: 2px;
 }
-.HYWidget_title__h2.HYWidget-text-visual {
+.HYWidget_Tribal__h2.HYWidget-text-visual {
     padding-bottom: 2px;
     padding-top: 2px;
 }
@@ -9037,8 +9037,8 @@ a.sphere-link:hover {
     font-size: 12px;
     color: #22282e;
 }
-.rFangateTitle_h1,
-.rFangateTitle_h2 {
+.rFangateTribal_h1,
+.rFangateTribal_h2 {
     color: #22282e;
     display: inline-block;
     font-family: "poppinsregular";
@@ -9047,18 +9047,18 @@ a.sphere-link:hover {
     max-width: 130px;
     vertical-align: bottom;
 }
-.rFangateTitle_h1 {
+.rFangateTribal_h1 {
     font-family: "poppinssemibold";
 }
-a.rFangateTitle_h1,
-a.rFangateTitle_h2 {
+a.rFangateTribal_h1,
+a.rFangateTribal_h2 {
     color: #22282e;
 }
-a:hover.rFangateTitle_h1,
-a:hover.rFangateTitle_h2 {
+a:hover.rFangateTribal_h1,
+a:hover.rFangateTribal_h2 {
     color: #000000;
 }
-a:hover.rFangateTitle_h1 h3 {
+a:hover.rFangateTribal_h1 h3 {
     color: #000000;
 }
 .feed_link {
@@ -9219,25 +9219,25 @@ a:hover.rFangateTitle_h1 h3 {
 /****************************** ****************************** 
   		 Onboarding Plan Selection Page CSS Sprint-18
 ****************************** *****************************/
-.single-title-part {
+.single-Tribal-part {
     display: block;
     text-align: center;
     margin-bottom: 30px;
 }
-.single-title-part h2 {
+.single-Tribal-part h2 {
     color: #495159;
     font-family: "NexaBlack";
     font-size: 24px;
     font-weight: normal;
     margin: 0 0 15px;
 }
-.single-title-part h2 span {
+.single-Tribal-part h2 span {
     font-family: "NexaThin";
     font-style: italic;
     display: block;
     margin-bottom: 3px;
 }
-.single-title-part p {
+.single-Tribal-part p {
     color: #495159;
     font-family: "poppinsregular";
     font-size: 14px;
@@ -9614,16 +9614,16 @@ a:hover.rFangateTitle_h1 h3 {
     border-radius: 0;
     box-shadow: none;
 }
-.fan-promotion-sidebar .panel-title {
+.fan-promotion-sidebar .panel-Tribal {
     color: #3f4a54;
     font-family: "poppinsmedium";
     font-size: 13px;
     font-weight: normal;
 }
-.fan-promotion-sidebar .panel-title > a {
+.fan-promotion-sidebar .panel-Tribal > a {
     display: block;
 }
-.fan-promotion-sidebar .panel-title > a.panel-toggle:before {
+.fan-promotion-sidebar .panel-Tribal > a.panel-toggle:before {
     color: #495159;
     content: "\f107";
     font-family: "FontAwesome";
@@ -9637,7 +9637,7 @@ a:hover.rFangateTitle_h1 h3 {
     vertical-align: middle;
     width: 24px;
 }
-.fan-promotion-sidebar .panel-title > a.panel-toggle.collapsed:before {
+.fan-promotion-sidebar .panel-Tribal > a.panel-toggle.collapsed:before {
     color: #495159;
     content: "\f105";
     display: inline-block;
@@ -9832,7 +9832,7 @@ a:hover.rFangateTitle_h1 h3 {
     font-size: 10px;
     color: #495159;
 }
-.for-static-white-title {
+.for-static-white-Tribal {
     position: fixed;
     top: 0;
     z-index: 2;
@@ -10295,24 +10295,24 @@ p.ic_fanlink a.copy-link {
 .blog-promotion-page .panel-group .panel.focusOut {
     background: #f7f8f9 none repeat scroll 0 0;
 }
-.blog-promotion-page .panel-group .panel.focusOut .panel-title {
+.blog-promotion-page .panel-group .panel.focusOut .panel-Tribal {
     color: #b1b8bf;
 }
 .blog-promotion-page .panel-group .panel.focusOut .panel-icon {
     background: #b1b8bf;
 }
-.blog-promotion-page .panel-group .panel.focusOut .panel-title > a.panel-toggle.collapsed:before {
+.blog-promotion-page .panel-group .panel.focusOut .panel-Tribal > a.panel-toggle.collapsed:before {
     color: #b1b8bf;
 }
 .blog-promotion-page .panel-heading {
     border-radius: 0;
     padding: 2px 0 6px;
 }
-.blog-promotion-page .panel-title {
+.blog-promotion-page .panel-Tribal {
     color: #495159;
     font-size: 20px;
 }
-.blog-promotion-page .panel-title .panel-icon {
+.blog-promotion-page .panel-Tribal .panel-icon {
     background: #495159 none repeat scroll 0 0;
     border-radius: 25px;
     color: #fff;
@@ -10327,15 +10327,15 @@ p.ic_fanlink a.copy-link {
     vertical-align: middle;
     width: 20px;
 }
-.blog-promotion-page .panel-title .panel-headline {
+.blog-promotion-page .panel-Tribal .panel-headline {
     display: block;
     overflow: hidden;
     padding-top: 5px;
 }
-.blog-promotion-page .panel-title > a {
+.blog-promotion-page .panel-Tribal > a {
     display: block;
 }
-.blog-promotion-page .panel-title > a.panel-toggle:before {
+.blog-promotion-page .panel-Tribal > a.panel-toggle:before {
     color: #495159;
     content: "\f107";
     float: left;
@@ -10344,7 +10344,7 @@ p.ic_fanlink a.copy-link {
     text-align: center;
     width: 25px;
 }
-.blog-promotion-page .panel-title > a.panel-toggle.collapsed:before {
+.blog-promotion-page .panel-Tribal > a.panel-toggle.collapsed:before {
     content: "\f105";
 }
 .blog-promotion-page .panel-body {
@@ -10569,7 +10569,7 @@ p.ic_fanlink a.copy-link {
     padding-left: 10px;
     padding-right: 10px;
 }
-.fullHeight_withTitle {
+.fullHeight_withTribal {
     min-height: calc(100vh - 135px);
 }
 /****************************** ****************************** 
@@ -11666,7 +11666,7 @@ dl.dropdown-channel {
 /****************************** ****************************** 
    	Onboarding - Select User Type Page Style CSS Sprint-23
 ****************************** *****************************/
-.fullHeight_withoutTitle {
+.fullHeight_withoutTribal {
     min-height: calc(100vh - 65px);
 }
 .on-board-section {
@@ -11684,7 +11684,7 @@ dl.dropdown-channel {
     padding-right: 10px;
     padding-left: 10px;
 }
-.on-board-section .single-title-part {
+.on-board-section .single-Tribal-part {
     margin-bottom: 35px;
 }
 .board-white-box {
@@ -12091,7 +12091,7 @@ Add Music-Create Download Gate-Unlimited Page CSS Sprint-23
 .blog-promotion-page .panel-group .sub_panel:last-child {
     padding-bottom: 0;
 }
-.blog-promotion-page .panel-title .panel-img-icon {
+.blog-promotion-page .panel-Tribal .panel-img-icon {
     float: left;
     height: 20px;
     line-height: 20px;
@@ -12101,10 +12101,10 @@ Add Music-Create Download Gate-Unlimited Page CSS Sprint-23
     vertical-align: middle;
     width: 20px;
 }
-.blog-promotion-page .sub_panel .panel-title > a.panel-toggle:before {
+.blog-promotion-page .sub_panel .panel-Tribal > a.panel-toggle:before {
     visibility: hidden;
 }
-.blog-promotion-page .sub_panel .panel-title > a.panel-toggle .panel-headline:after {
+.blog-promotion-page .sub_panel .panel-Tribal > a.panel-toggle .panel-headline:after {
     color: #495159;
     content: "\f107";
     font-family: "FontAwesome";
@@ -12116,7 +12116,7 @@ Add Music-Create Download Gate-Unlimited Page CSS Sprint-23
     display: inline-block;
     margin-top: -5px;
 }
-.blog-promotion-page .sub_panel .panel-title > a.panel-toggle.collapsed .panel-headline:after {
+.blog-promotion-page .sub_panel .panel-Tribal > a.panel-toggle.collapsed .panel-headline:after {
     content: "\f105";
 }
 .blog-promotion-page .sub_panel .panel-body {
@@ -13679,7 +13679,7 @@ Chats - Create Standard Canned Response Page CSS HYPE-610 - Sprint-32
 .basic-form-part {
     display: block;
 }
-.basic-form-part .sub-heading-title h3 {
+.basic-form-part .sub-heading-Tribal h3 {
     text-align: left;
 }
 .basic-form-part .form-group {
@@ -16803,7 +16803,7 @@ iframe#video-tut {
     max-width: 620px;
     margin: 0 auto;
 }
-.welcome-video-page .single-title-part {
+.welcome-video-page .single-Tribal-part {
     margin-bottom: 60px;
 }
 .welcome-video-player {
@@ -17238,17 +17238,17 @@ UI fix - HYPE-1030 - Sprint-54
 /****************************** ****************************** 
 Music Directory Listings - HYPE-1043 - Sprint-55
 ****************************** *****************************/
-.for-static-white-title.for-infowith-title {
+.for-static-white-Tribal.for-infowith-Tribal {
     z-index: 3;
     box-shadow: none;
 }
-.white-page-title-part .info-btn {
+.white-page-Tribal-part .info-btn {
     background-size: cover;
     height: 17px;
     width: 17px;
     vertical-align: baseline;
 }
-.white-page-title-part .white-tooltip + .tooltip {
+.white-page-Tribal-part .white-tooltip + .tooltip {
     font-family: "poppinsregular";
 }
 .md1 {
@@ -17393,21 +17393,21 @@ Music Directory Listings - HYPE-1043 - Sprint-55
     margin-top: 8px;
 }
 /****************************** ****************************** 
-  	 		Page Title Inner CSS Sprint-55
+  	 		Page Tribal Inner CSS Sprint-55
 ****************************** *****************************/
-.page-title-inner-container {
+.page-Tribal-inner-container {
     max-width: 944px;
     margin: 0 auto;
     width: 100%;
     position: relative;
 }
-.title-filterby-part {
+.Tribal-filterby-part {
     position: absolute;
     top: -5px;
     width: 100%;
     max-width: 220px;
 }
-.title-filterby-part label.nfanlabel {
+.Tribal-filterby-part label.nfanlabel {
     color: #495159;
     float: left;
     font-family: "poppinsmedium";
@@ -17416,7 +17416,7 @@ Music Directory Listings - HYPE-1043 - Sprint-55
     margin: 8px 15px 0 0;
     padding: 0;
 }
-.title-filterby-part .select {
+.Tribal-filterby-part .select {
     display: flex;
 }
 /****************************** ****************************** 
@@ -17771,11 +17771,11 @@ Play On Page CSS - HYPE-1095 - Sprint-60
     vertical-align: middle;
     width: 100%;
 }
-.play-on-title {
+.play-on-Tribal {
     display: block;
     text-align: center;
 }
-.play-on-title h1 {
+.play-on-Tribal h1 {
     display: -webkit-box;
     overflow: hidden;
     overflow-wrap: break-word;
@@ -17790,7 +17790,7 @@ Play On Page CSS - HYPE-1095 - Sprint-60
     text-transform: uppercase;
     line-height: 30px;
 }
-.play-on-title h2 {
+.play-on-Tribal h2 {
     color: rgba(255, 255, 255, 0.5);
     font-family: "NexaLight";
     font-size: 20px;
@@ -17799,15 +17799,15 @@ Play On Page CSS - HYPE-1095 - Sprint-60
     text-transform: capitalize;
     line-height: 24px;
 }
-.play-on-title h2 a,
-.play-on-title h2 a:hover {
+.play-on-Tribal h2 a,
+.play-on-Tribal h2 a:hover {
     color: rgba(255, 255, 255, 0.9);
 }
-.play-on-title h2 a,
-.play-on-title h2 a:hover {
+.play-on-Tribal h2 a,
+.play-on-Tribal h2 a:hover {
     color: rgba(255, 255, 255, 1);
 }
-.play-on-title .button {
+.play-on-Tribal .button {
     text-transform: uppercase;
     border-radius: 50px;
     font-size: 14px;
@@ -17816,7 +17816,7 @@ Play On Page CSS - HYPE-1095 - Sprint-60
     line-height: 46px;
     padding: 0 15px;
 }
-.play-on-title .button i {
+.play-on-Tribal .button i {
     margin-top: -4px;
 }
 /****************************** ****************************** 
@@ -17888,7 +17888,7 @@ Play On Page CSS - HYPE-1095 - Sprint-60
     margin-right: 8px;
     margin-top: -4px;
 }
-.white-page-title-part h1 .lock-pro-badge {
+.white-page-Tribal-part h1 .lock-pro-badge {
     position: relative;
     left: auto;
     top: -3px;

@@ -53,7 +53,7 @@ a: active,
 a: hover {
     outline : 0;
 }
-abbr[title]{
+abbr[Tribal]{
     border - bottom: 1 px dotted;
 }
 b,
@@ -207,8 +207,8 @@ th {
     a[href]: after {
         content : " (" attr(href)")";
     }
-    abbr[title]: after {
-        content : " (" attr(title)")";
+    abbr[Tribal]: after {
+        content : " (" attr(Tribal)")";
     }
     a[href ^= "#"]: after,
     a[href ^= "javascript:"]: after {
@@ -661,7 +661,7 @@ th {
     content : "\e186";
 }.glyphicon - hd - video: before {
     content : "\e187";
-}.glyphicon - subtitles: before {
+}.glyphicon - subTribals: before {
     content : "\e188";
 }.glyphicon - sound - stereo: before {
     content : "\e189";
@@ -1141,8 +1141,8 @@ dd {
         margin - left: 180 px;
     }
 }
-abbr[title],
-abbr[data - original - title]{
+abbr[Tribal],
+abbr[data - original - Tribal]{
     cursor: help;
     border - bottom: 1 px dotted #777;
 }.initialism {
@@ -4527,13 +4527,13 @@ button.list - group - item - danger.active: focus {
     .dropdown - toggle {
         color : inherit;
     }
-    .panel - title {
+    .panel - Tribal {
         margin - top : 0;
         margin - bottom : 0;
         font - size : 16 px;
         color : inherit;
     }
-    .panel - title > a,.panel - title > small,.panel - title >.small,.panel - title > small > a,.panel - title >.small > a {
+    .panel - Tribal > a,.panel - Tribal > small,.panel - Tribal >.small,.panel - Tribal > small > a,.panel - Tribal >.small > a {
     color : inherit;
 }.panel - footer {
     padding : 10 px 15 px;
@@ -4929,7 +4929,7 @@ button
     .close {
         margin - top : -2 px;
     }
-    .modal - title {
+    .modal - Tribal {
         color : #414e58;
         font - size : 24 px;
         margin : 0;
@@ -4938,10 +4938,10 @@ button
         font - weight : normal;
         letter - spacing : 0.25 px;
     }
-    .modal - title span {
+    .modal - Tribal span {
         color: #414e58;
     }
-    .modal - title - white {
+    .modal - Tribal - white {
         color : #414e58 !important;
     }
     .modal - body {
@@ -5177,7 +5177,7 @@ button
     .left {
         margin - left : -20 px;
     }
-    .popover - title {
+    .popover - Tribal {
         padding : 8 px 14 px;
         margin : 0;
         font - size : 24 px;
@@ -5190,7 +5190,7 @@ button
         letter - spacing : 0.25 px;
         text - align : center;
     }
-    .popover - title span {
+    .popover - Tribal span {
         color: #f43010;
     }
     .popover - content {
